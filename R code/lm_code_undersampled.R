@@ -1,4 +1,4 @@
-full_data <- read.csv("../aggregated/aggregated_undersampled.csv")
+full_data <- read.csv("/Users/skytruong/Documents/UoG-CS/Winter2024/STAT3510/Project/stat3510-headline-analysis/aggregated/aggregated_undersampled.csv")
 head(full_data)
 
 # MODEL 1:
@@ -8,7 +8,10 @@ full_data$total_negative <- total_negative
 head(full_data)
 
 # linear model on full data
-full_plot <- plot(x=full_data$date_id, y=full_data$total_negative, xlab="date_id", ylab="count of negative news headlines", pch=19)
+full_plot <- plot(x=full_data$date_id, y=full_data$total_negative, 
+                  xlab="Date ID", ylab="Number of Negative Headlines", pch=19)
+title(main=("Number of Negative Headlines: Pre vs Post Covid19"), adj=0)
+title(main=substitute(paste("Linear Regression")), line=0.5, cex.main=0.9, adj=0)
 full_model <- lm(total_negative~date_id, data=full_data)
 summary(full_model)
 abline(full_model, col="red")
@@ -24,8 +27,8 @@ abline(h=5, col="red")
 # MODEL 2:
 # categorial variable plot
 par(mfrow=c(1,2))
-barplot(height=full_data$negative_l, names.arg=full_data$date_id, xlab="date_id", ylab="negative_l", col="blue")
-barplot(height=full_data$negative_r, names.arg=full_data$date_id, xlab="date_id", ylab="negative_r", col="red")
+barplot(height=full_data$negative_l, names.arg=full_data$date_id, xlab="Date ID", ylab="Number of Negative Headlines (Left-leaning)", col="blue")
+barplot(height=full_data$negative_r, names.arg=full_data$date_id, xlab="Date ID", ylab="Number of Negative Headlines (Right-leaning)", col="red")
 
 library(reshape)
 sliced_df <- full_data[, c("date_id", "negative_l", "negative_r")]
