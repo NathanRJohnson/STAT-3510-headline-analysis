@@ -1,5 +1,231 @@
-Headline,Source,Year,Month,Day,Pre-Covid,Bias,Cred
-The least important reforms in Washington,The Washington Post,2019,11,12,0,0,1
-A queer teen fought his bully. There’s nothing to applaud here.,The Washington Post,2019,11,12,0,0,1
-Disney threatens to ruin the things that made Marvel Comics special,The Washington Post,2019,11,12,0,0,1
-"Losing DACA would, on top of everything else, double my college tuition",The Washington Post,2019,11,12,0,0,1
+Headline,Source,Year,Month,Day,Date_id,Pre-Covid,Bias,Cred
+The deterioration of White House policy debates,The Washington Post,2018,01,02,0,0,0,1
+Five things we’ll be arguing about in 2018,The Washington Post,2018,01,02,0,0,0,1
+Why we still allow bullying to flourish in kids sports,The Washington Post,2018,01,02,0,0,0,1
+Trump’s lawyer is a specialist in securing preemptive pardons,The Washington Post,2018,01,02,0,0,0,1
+Is President Trump’s foreign policy better than we think?,The Washington Post,2018,01,09,1,0,0,1
+America’s teacher shortage can’t be solved by hiring more unqualified teachers,The Washington Post,2018,01,09,1,0,0,1
+Kudlownomics: Thoughts on new economics chief Larry Kudlow from an old friend/adversary,The Washington Post,2018,03,14,3,0,0,1
+Alex Jones is a menace to society. I’m suing him.,The Washington Post,2018,03,14,3,0,0,1
+Mattel has no business turning Frida Kahlo into a Barbie,The Washington Post,2018,03,14,3,0,0,1
+I worked for Sinclair. I had to quit.,The Washington Post,2018,04,10,4,0,0,1
+How Sinclair became the most insidious force in local TV news,The Washington Post,2018,04,10,4,0,0,1
+The flight from the ‘Flight 93 Election’,The Washington Post,2018,04,10,4,0,0,1
+Trump just accelerated Iran’s implosion. He won’t like the results.,The Washington Post,2018,05,08,5,0,0,1
+"Hawaii has made peace with its angry volcano; not so its tsunamis, hurricanes and heating Earth",The Washington Post,2018,05,08,5,0,0,1
+Why can’t the Trump administration brand more of its foreign policy?,The Washington Post,2018,05,08,5,0,0,1
+Banning Chinese phones won’t fix security problems with our electronic supply chain,The Washington Post,2018,05,08,5,0,0,1
+Trump did a bunch of stuff to strengthen the dollar; now he’s upset about the strengthening dollar,The Washington Post,2018,07,20,6,0,0,1
+Not all senior citizens need discounts. But all low-income people do.,The Washington Post,2018,10,15,7,0,0,1
+What Jamal Khashoggi and Edward Snowden have in common,The Washington Post,2018,10,15,7,0,0,1
+The idea that action against climate change will ‘destroy the economy’ couldn’t be more wrong,The Washington Post,2018,10,15,7,0,0,1
+"Here in Florida, hurricanes are always political",The Washington Post,2018,10,15,7,0,0,1
+The echoes of November 1918,The Washington Post,2018,11,11,9,0,0,1
+How I fell in love with Kansas — and spent the next five years trying to change it,The Washington Post,2018,11,27,10,0,0,1
+Three ways of looking at public attitudes about the Trump economy,The Washington Post,2018,11,27,10,0,0,1
+Ordering troops to police the border is unnecessary — and illegal,The Washington Post,2018,11,27,10,0,0,1
+Why people still think George H.W. Bush didn’t understand a grocery checkout,The Washington Post,2018,12,04,11,0,0,1
+Did Trump obstruct justice in public on Monday?,The Washington Post,2018,12,04,11,0,0,1
+The Trump administration’s Potemkin negotiations,The Washington Post,2018,12,04,11,0,0,1
+Mattis was a deeply flawed defense secretary,The Washington Post,2018,12,27,14,0,0,1
+"With the government shut down, we’re trying to keep chaos at bay in Joshua Tree",The Washington Post,2019,01,02,15,0,0,1
+Grading Elizabeth Warren’s foreign policy vision,The Washington Post,2019,01,02,15,0,0,1
+The complicated history of Thomas Jefferson’s Koran,The Washington Post,2019,01,02,15,0,0,1
+Political economy predictions for 2019 (with subjective probabilities),The Washington Post,2019,01,02,15,0,0,1
+Trump says medieval walls worked. They didn’t.,The Washington Post,2019,01,10,17,0,0,1
+Trump is right: There is a crisis at the border. But he’s causing it.,The Washington Post,2019,01,10,17,0,0,1
+The Democrats are going to have to have the 'I' talk,The Washington Post,2019,01,10,17,0,0,1
+A very good economic idea may be about to replace a very bad one,The Washington Post,2019,01,10,17,0,0,1
+How the fossil fuel industry got the media to think climate change was debatable,The Washington Post,2019,01,10,17,0,0,1
+A subtle shift in the Trump-as-Toddler analogy,The Washington Post,2019,01,16,18,0,0,1
+Building on Ocasio-Cortez: More progressive ways to raise much-needed tax revenues,The Washington Post,2019,01,16,18,0,0,1
+It’s way too hard for working-class people to run for office,The Washington Post,2019,01,16,18,0,0,1
+Jack Bogle exposed the frauds on Wall Street — and helped the middle class save,The Washington Post,2019,01,17,19,0,0,1
+How policy decisions spawned today’s hyperpolarized media,The Washington Post,2019,01,17,19,0,0,1
+Our robotic pleasure tech won a big award. Then they took it away.,The Washington Post,2019,01,17,19,0,0,1
+How U.S. surveillance technology is propping up authoritarian regimes,The Washington Post,2019,01,17,19,0,0,1
+Los Angeles teachers just proved that the common wisdom about unions is wrong,The Washington Post,2019,01,25,20,0,0,1
+Why Trump didn’t build the wall when Republicans controlled Congress,The Washington Post,2019,01,25,20,0,0,1
+The shutdown is about to sink my Coast Guard family out of the middle class,The Washington Post,2019,01,25,20,0,0,1
+"The good, the bad and the ugly of the foreign policymaking process",The Washington Post,2019,03,04,22,0,0,1
+Senators should stop asking about judicial nominees’ religious beliefs,The Washington Post,2019,03,04,22,0,0,1
+Hesitating to go see ‘Captain Marvel’? Then you must be a bad feminist.,The Washington Post,2019,03,07,23,0,0,1
+Here’s how to help people who have kids and aren’t rich run for Congress,The Washington Post,2019,03,07,23,0,0,1
+Why Trump probably won’t get in trouble for campaign finance violations,The Washington Post,2019,03,07,23,0,0,1
+A letter from the front line of the trade wars,The Washington Post,2019,03,07,23,0,0,1
+Barbie is 60. And she’s reinventing herself.,The Washington Post,2019,03,07,23,0,0,1
+Democrats won’t debate on Fox News. They’d stand a better chance in 2020 if they did.,The Washington Post,2019,03,07,23,0,0,1
+One person the Mueller report didn’t ‘exonerate’? Vladimir Putin.,The Washington Post,2019,03,25,25,0,0,1
+Trump’s executive order on free speech is remarkably thin — but a signal to the right,The Washington Post,2019,03,25,25,0,0,1
+The good news from the Barr summary of the Mueller report,The Washington Post,2019,03,25,25,0,0,1
+Apple is trying to be the future of news. Again.,The Washington Post,2019,03,25,25,0,0,1
+Trump’s order on college free speech will also protect speech he hates,The Washington Post,2019,03,25,25,0,0,1
+"Yes, you can gentrify a neighborhood without pushing out poor people",The Washington Post,2019,04,08,26,0,0,1
+The most apocalyptic article I have ever written,The Washington Post,2019,04,08,26,0,0,1
+How Nipsey Hussle inspired thousands of Eritrean Americans,The Washington Post,2019,04,08,26,0,0,1
+How Mueller revived a law that protects us all against foreign money,The Washington Post,2019,04,17,27,0,0,1
+No one tell my mother about this column,The Washington Post,2019,04,17,27,0,0,1
+Elizabeth Warren’s historically sound case against the filibuster,The Washington Post,2019,04,17,27,0,0,1
+Is the past a source of nostalgia or trauma for foreign policy analysts?,The Washington Post,2019,04,17,27,0,0,1
+Will Democrats talk about foreign policy during the 2020 primary?,The Washington Post,2019,05,29,30,0,0,1
+Why banning ‘meal shaming’ isn’t enough,The Washington Post,2019,05,29,30,0,0,1
+Presidential candidates shouldn’t pick the vice president. Voters should.,The Washington Post,2019,05,29,30,0,0,1
+This is the cruelest thing the Trump administration has done to trans people yet,The Washington Post,2019,05,29,30,0,0,1
+"My father is a conservative, and I’m an anarchist. Hunting still connects us.",The Washington Post,2019,06,16,31,0,0,1
+"O Captains, My Captains",The Washington Post,2019,06,28,32,0,0,1
+The looming health crisis for migrant children,The Washington Post,2019,06,28,32,0,0,1
+Why the Supreme Court’s proposed remedies for gerrymandering are so toothless,The Washington Post,2019,06,28,32,0,0,1
+Making America white again,The Washington Post,2019,06,28,32,0,0,1
+Trump has made it impossible for government lawyers to act ethically,The Washington Post,2019,07,10,35,0,0,1
+How conspiracy theorists taint the justice they seek,The Washington Post,2019,07,10,35,0,0,1
+Can any good come out of the Commission of Unalienable Rights?,The Washington Post,2019,07,10,35,0,0,1
+The lost art of ideological warfare,The Washington Post,2019,07,10,35,0,0,1
+"Impeachment isn’t optional. If facts point in that direction, Congress must act.",The Washington Post,2019,07,10,35,0,0,1
+‘The Lion King’ is a fascistic story. No remake can change that.,The Washington Post,2019,07,10,35,0,0,1
+De Niro: Mueller didn’t play me playing him on SNL. That’s good.,The Washington Post,2019,07,29,38,0,0,1
+How Donald Trump is sanctioning the U.S. economy,The Washington Post,2019,07,29,38,0,0,1
+"The Trump administration is making legal immigration harder, too",The Washington Post,2019,07,29,38,0,0,1
+"The stubborn, misguided myth that Internet platforms must be ‘neutral’",The Washington Post,2019,07,29,38,0,0,1
+Lazarus wrote the lyrics. Berlin wrote the music. Cuccinelli erases the memory.,The Washington Post,2019,08,14,39,0,0,1
+The weak defenses of Elizabeth Warren’s trade plan,The Washington Post,2019,08,14,39,0,0,1
+Why do people keep convincing themselves they’ve solved this medieval mystery?,The Washington Post,2019,08,14,39,0,0,1
+"Trump sees all U.S. Jews as Israelis because his Christian Zionist allies do, too",The Washington Post,2019,08,22,41,0,0,1
+Trump’s snit over Greenland is straight out of this Danish TV drama,The Washington Post,2019,08,22,41,0,0,1
+"If and when the recession begins, it won’t be Trump’s fault",The Washington Post,2019,08,22,41,0,0,1
+Caring about tomorrow,The Washington Post,2019,08,22,41,0,0,1
+Why does Kevin Moley still have a job at the State Department?,The Washington Post,2019,08,22,41,0,0,1
+The biggest puzzle of the 2020 Democratic primary to date,The Washington Post,2019,09,12,43,0,0,1
+Executive privilege is vitally important. But not at the expense of national security.,The Washington Post,2019,09,27,44,0,0,1
+Should the House impeach Trump just over Ukraine? Or for more?,The Washington Post,2019,09,27,44,0,0,1
+This is how unusual it is for an intelligence officer to become a whistleblower,The Washington Post,2019,10,07,45,0,0,1
+‘Trump time’ notches a foreign policy accomplishment,The Washington Post,2019,10,07,45,0,0,1
+Trump’s first mistake in Syria was ever trusting Erdogan,The Washington Post,2019,10,17,46,0,0,1
+‘America’s most famous whistleblower’ inspired legal protections. They’re too weak.,The Washington Post,2019,10,17,46,0,0,1
+Hiring neurodiverse people like me can give companies a competitive advantage,The Washington Post,2019,10,17,46,0,0,1
+Trump’s demands that we ‘READ THE TRANSCRIPT!’ are just sleight of hand,The Washington Post,2019,11,01,47,0,0,1
+The weird similarities between the beginning and end of D.C.’s baseball woes,The Washington Post,2019,11,01,47,0,0,1
+Look who’s talking less: Supreme Court justices,The Washington Post,2019,11,01,47,0,0,1
+What were these Trump wranglers thinking?,The Washington Post,2019,11,20,49,0,0,1
+"Memorializing lost trans lives is important, but we need to remember trans joy, too",The Washington Post,2019,11,20,49,0,0,1
+The traditional U.S. security architecture is crumbling,The Washington Post,2019,11,20,49,0,0,1
+"Gordon Sondland has a choice: Protect Trump, or tell the truth",The Washington Post,2019,11,20,49,0,0,1
+The deficit hasn’t smothered growth. So why can’t we keep partying on credit?,The Washington Post,2019,11,20,49,0,0,1
+"Witness ‘reciprocity’ isn’t a thing. So no, there can’t be a Biden for every Bolton.",The Washington Post,2020,01,20,50,1,0,1
+U.S. hospitals may have to ration care during the pandemic. Here’s one approach.,The Washington Post,2020,03,12,54,1,0,1
+Pence can’t be Trump’s coronavirus fall guy if Trump won’t give up the spotlight,The Washington Post,2020,03,12,54,1,0,1
+Coronavirus could normalize voting by mail. That will create other problems.,The Washington Post,2020,03,12,54,1,0,1
+Donald Trump needs to move down the learning curve,The Washington Post,2020,03,12,54,1,0,1
+Alexandria Ocasio-Cortez looks like a radical. She’s really a pragmatist.,The Washington Post,2020,03,12,54,1,0,1
+"Trump can’t help us now. We need Taylor Swift, LeBron James and Kim Kardashian.",The Washington Post,2020,03,14,55,1,0,1
+Cruise lines sell us a floating paradise. Coronavirus shows it was always a lie.,The Washington Post,2020,03,14,55,1,0,1
+Let’s politicize the coronavirus crisis,The Washington Post,2020,03,14,55,1,0,1
+America’s civil religion is capitalism. Trump’s coronavirus response proves it.,The Washington Post,2020,03,26,56,1,0,1
+Social distancing won’t last forever. But ending it by Easter will kill people.,The Washington Post,2020,03,26,56,1,0,1
+Surprisingly few voters think Trump cares about ‘people like me’,The Washington Post,2020,03,26,56,1,0,1
+Passing the $2 trillion relief bill was easy. Spending the money will be harder.,The Washington Post,2020,04,06,57,1,0,1
+A very important column about ... whether Passover should be observed this year,The Washington Post,2020,04,06,57,1,0,1
+Don’t deny ventilators to disabled patients,The Washington Post,2020,04,06,57,1,0,1
+The pandemic will make Passover somber this year. It’s not the first time.,The Washington Post,2020,04,06,57,1,0,1
+Trump’s ‘LIBERATE MICHIGAN!’ tweets incite insurrection. That’s illegal.,The Washington Post,2020,04,17,58,1,0,1
+Why does Trump want higher oil prices?,The Washington Post,2020,04,17,58,1,0,1
+"When Trump says he was being ‘sarcastic,’ it’s just part of his gaslighting",The Washington Post,2020,04,25,59,1,0,1
+Warehouse workers are essential. It’s time we treated them that way.,The Washington Post,2020,04,25,59,1,0,1
+The world is ending. Could this affect Trump’s reelection chances?,The Washington Post,2020,05,12,60,1,0,1
+"Yes, the federal debt will be huge. But that shouldn’t stop government from doing what needs to be done.",The Washington Post,2020,05,12,60,1,0,1
+Trump’s White House is guilty of exactly what it accuses China of doing,The Washington Post,2020,05,13,61,1,0,1
+Churches have been hypocritical during the pandemic,The Washington Post,2020,05,13,61,1,0,1
+We need Congress to watch pandemic spending closely. Here’s how it can do it.,The Washington Post,2020,05,13,61,1,0,1
+Let’s grade Josh Hawley in global political economy!,The Washington Post,2020,05,13,61,1,0,1
+The Federal Reserve could help make the job market fairer for black workers,The Washington Post,2020,06,15,63,1,0,1
+Are Americans hard-wired to spread the coronavirus?,The Washington Post,2020,06,15,63,1,0,1
+Protest? Visit Grandma? The pandemic’s next phase means weighing risks and values.,The Washington Post,2020,06,15,63,1,0,1
+"When law enforcement killed my brother, there was no video",The Washington Post,2020,06,15,63,1,0,1
+Today’s unemployment benefits are too high — but we can’t just cut them off,The Washington Post,2020,07,13,65,1,0,1
+"You don’t need to bang pots for us, but wear a mask. We’re still dying.",The Washington Post,2020,07,13,65,1,0,1
+What technocrats can learn from Fauci,The Washington Post,2020,07,13,65,1,0,1
+"As a black person, I’m done helping white Christians feel better about race",The Washington Post,2020,07,13,65,1,0,1
+Uncertainty can ruin an economy. The bungled covid-19 response just adds to it.,The Washington Post,2020,07,13,65,1,0,1
+We can control covid-19 before a vaccine by focusing on ‘core groups’,The Washington Post,2020,07,23,66,1,0,1
+"We’re police officers. You should know our names. That goes for Portland, too.",The Washington Post,2020,07,23,66,1,0,1
+Some questions for deficit hawks,The Washington Post,2020,07,23,66,1,0,1
+Private ‘school pods’ are coming. They’ll worsen inequality.,The Washington Post,2020,07,23,66,1,0,1
+"Burnout made me quit my transplant practice. Front-line workers need help, too.",The Washington Post,2020,07,28,67,1,0,1
+We can’t stop the pandemic unless we change liability law,The Washington Post,2020,07,28,67,1,0,1
+The tortoise of 21st-century great-power politics,The Washington Post,2020,07,28,67,1,0,1
+The NRA is doomed. It has only itself to blame.,The Washington Post,2020,08,08,68,1,0,1
+"Yes, tons of ballots are sent to dead people. Trump shouldn’t worry about them.",The Washington Post,2020,08,19,69,1,0,1
+The foreign policy case against Donald Trump,The Washington Post,2020,08,19,69,1,0,1
+Joe Biden and Kamala Harris both worked for gay marriage — in opposite ways,The Washington Post,2020,08,19,69,1,0,1
+The Zoom era has radically transformed political speechcraft. For the better.,The Washington Post,2020,08,21,70,1,0,1
+The Democratic convention was super awkward. That’s what made it feel authentic.,The Washington Post,2020,08,21,70,1,0,1
+Obama gives ‘fear itself’ a name: Donald Trump,The Washington Post,2020,08,21,70,1,0,1
+Arab-Israeli progress seemed impossible. That’s because of old assumptions.,The Washington Post,2020,09,23,71,1,0,1
+I tracked electoral votes for Bush. Beware of the 2020 forecasts.,The Washington Post,2020,09,23,71,1,0,1
+The GOP is now the party of looters and moochers,The Washington Post,2020,09,23,71,1,0,1
+"With a conservative court, abortion foes could end Roe — and go even further",The Washington Post,2020,09,23,71,1,0,1
+The eviction crisis has begun. It will get so much worse.,The Washington Post,2020,09,23,71,1,0,1
+Trump’s financial peril might encourage him to reject the election results,The Washington Post,2020,09,28,72,1,0,1
+Trump is either a tax fraud or the world’s worst businessman,The Washington Post,2020,09,28,72,1,0,1
+Older voters could carry Biden to victory — and it’s not all about covid-19,The Washington Post,2020,09,28,72,1,0,1
+What Trump’s and Biden’s competing economic agendas reveal about the economy,The Washington Post,2020,09,28,72,1,0,1
+Judge Barrett backs laws that could have killed me during my pregnancy,The Washington Post,2020,09,28,72,1,0,1
+Jacob Blake is my nephew. My family knows Breonna Taylor’s family’s pain.,The Washington Post,2020,09,28,72,1,0,1
+Trump’s race-based patriotism damages patriotism itself,The Washington Post,2020,09,28,72,1,0,1
+My wife and I got the virus. I got better. We had to say goodbye over FaceTime.,The Washington Post,2020,09,28,72,1,0,1
+I’m part of a coronavirus vaccine trial. Keep politics out of it.,The Washington Post,2020,09,28,72,1,0,1
+Court-packing is a dreadful option. Biden shouldn’t rule it out.,The Washington Post,2020,10,12,73,1,0,1
+"Trump’s triple failure: Virus control, stimulus and the trade deficit",The Washington Post,2020,10,12,73,1,0,1
+Barrett favors religious expression over other speech. The Constitution doesn’t.,The Washington Post,2020,10,13,74,1,0,1
+"Both parties say courts should reflect the majority. Increasingly, they don’t.",The Washington Post,2020,10,13,74,1,0,1
+Why Ross Douthat is right about Trump,The Washington Post,2020,10,13,74,1,0,1
+The Trump administration loves gag orders. But they’re often illegal.,The Washington Post,2020,10,13,74,1,0,1
+Trump is abusing his power for political reasons — just like he says Obama did,The Washington Post,2020,10,13,74,1,0,1
+We saved our economy in Sweden. But too many people died.,The Washington Post,2020,10,20,75,1,0,1
+Fast food is totally artificial. No wonder politicians eat it to seem real.,The Washington Post,2020,10,20,75,1,0,1
+The return of austerity politics,The Washington Post,2020,10,20,75,1,0,1
+Foreign policy is now partisan policy,The Washington Post,2020,10,26,76,1,0,1
+The Constitution won’t guarantee that your vote will count,The Washington Post,2020,10,26,76,1,0,1
+How to safeguard progressive legislation against the Supreme Court: Poison pills,The Washington Post,2020,10,26,76,1,0,1
+Trump will use the FBI as a weapon against his opponents if he wins another term,The Washington Post,2020,10,26,76,1,0,1
+Pope Francis still places heterosexual couples above LGBTQ people like me,The Washington Post,2020,10,26,76,1,0,1
+Republicans have already packed state supreme courts,The Washington Post,2020,10,26,76,1,0,1
+Kavanaugh has wild ideas about voting. They likely won’t matter on Election Day.,The Washington Post,2020,10,27,77,1,0,1
+This precarious economic moment: Diagnosis and prescription,The Washington Post,2020,10,27,77,1,0,1
+"A brief, intense shutdown would give the U.S. a second chance against the virus",The Washington Post,2020,10,27,77,1,0,1
+The biggest problem isn’t when a vaccine is ready. It’s how to distribute it,The Washington Post,2020,10,27,77,1,0,1
+I counted votes in Michigan. There’s no way to commit fraud.,The Washington Post,2020,11,05,78,1,0,1
+"Long before a vote was cast, Trump deployed the federal government to cheat",The Washington Post,2020,11,05,78,1,0,1
+I was in the 2000 ‘Brooks Brothers Riot.’ Trump supporters are way out of line.,The Washington Post,2020,11,05,78,1,0,1
+The Y2K20 election,The Washington Post,2020,11,05,78,1,0,1
+Democrats had a decade to consolidate power. They blew their chance.,The Washington Post,2020,11,06,79,1,0,1
+What scares Senate Republicans?,The Washington Post,2020,11,17,80,1,0,1
+We still haven’t decided what it means to ‘beat’ the pandemic,The Washington Post,2020,11,17,80,1,0,1
+The architect of Britain’s political culture war is gone. The culture war will go on.,The Washington Post,2020,11,17,80,1,0,1
+What’s the matter with America?,The Washington Post,2020,11,17,80,1,0,1
+Trump’s scheme for state legislatures to overturn the election won’t work,The Washington Post,2020,11,20,81,1,0,1
+The Pentagon thinks urban warfare is obsolete. That’s wrong.,The Washington Post,2020,11,20,81,1,0,1
+The hidden upside to the Trump White House’s incompetence,The Washington Post,2020,12,06,83,1,0,1
+I’m a photojournalist. Why is the administration banning me from border facilities?,The Washington Post,2021,03,22,87,1,0,1
+Part of the massage industry is built on hate crimes against Asian women,The Washington Post,2021,03,22,87,1,0,1
+The long history of violence against Asian Americans that led up to Atlanta,The Washington Post,2021,03,22,87,1,0,1
+Republicans want to make it much harder to vote. That strategy could backfire.,The Washington Post,2021,03,22,87,1,0,1
+A Very Important Post about ... the Snyder Cut,The Washington Post,2021,03,22,87,1,0,1
+Anti-Asian violence is often inseparable from misogyny,The Washington Post,2021,03,22,87,1,0,1
+An open letter to Joe Biden’s base,The Washington Post,2021,04,26,88,1,0,1
+Free trade with benefits,The Washington Post,2021,04,26,88,1,0,1
+The government can’t seize your digital data. Except by buying it.,The Washington Post,2021,04,26,88,1,0,1
+When disgraced theories are respectable again,The Washington Post,2021,05,26,89,1,0,1
+Trump isn’t ‘the former guy.’ We’re stuck with him.,The Washington Post,2021,05,26,89,1,0,1
+Too many essential care workers can’t afford the very services they provide,The Washington Post,2021,05,26,89,1,0,1
+The U.S. says it can answer cyberattacks with nuclear weapons. That’s lunacy.,The Washington Post,2021,07,09,91,1,0,1
+We want things to be normal so badly that we’re resorting to magical thinking,The Washington Post,2021,09,07,94,1,0,1
+What is happening to the Red Sox is not a morality play,The Washington Post,2021,09,07,94,1,0,1
+How many Californians does it take to change a governor?,The Washington Post,2021,09,07,94,1,0,1
+Why vaccine skeptics are all in on ivermectin,The Washington Post,2021,09,07,94,1,0,1
+What the Sturgis rally shows us about the delta variant,The Washington Post,2021,09,07,94,1,0,1
+There’s a baffling tax gift to the wealthy in the Democrats’ social-spending bill,The Washington Post,2021,11,05,97,1,0,1
+Rittenhouse didn’t have to prove he acted in self-defense,The Washington Post,2021,11,16,98,1,0,1
+Is a planetary grand strategy possible?,The Washington Post,2021,11,16,98,1,0,1
+Some horror movies take a new approach to disability: Fetishizing deafness,The Washington Post,2021,11,16,98,1,0,1
+Syphilis is killing babies in the U.S. One reason? The CDC’s budget.,The Washington Post,2021,11,16,98,1,0,1
+Abortion pills by mail are safe. The FDA finally acknowledged it.,The Washington Post,2021,12,20,99,1,0,1

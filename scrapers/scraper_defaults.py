@@ -50,7 +50,7 @@ def getCovidStatus(year, month):
 
 def getDates():
   dates = []
-  with open("rand-dates-mini.txt", "r") as datefile:
+  with open("rand-dates.txt", "r") as datefile:
     x = datefile.read().splitlines()
     dates.extend(x)
   return dates

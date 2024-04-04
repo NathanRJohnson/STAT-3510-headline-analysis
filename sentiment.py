@@ -30,8 +30,8 @@ def main():
       sentence = Sentence(headline)
       tagger.predict(sentence)
       scores.append(sentence_to_sentiment(sentence))
-    dataframe["Sentiment"] = scores
 
+    dataframe["Sentiment"] = scores
     # print(dataframe.loc[:, dataframe.columns.isin(["Headline", "Sentiment"])])
     dataframe.to_csv(join(RESULT_DIR, csv), index=False)
 

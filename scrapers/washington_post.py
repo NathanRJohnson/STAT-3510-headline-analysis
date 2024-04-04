@@ -51,7 +51,6 @@ def scrape_headlines(year, month, day):
       tries += 1
       if tries > MAX_TRIES: break 
   
-  print(all_headlines)
   return all_headlines
 
 if __name__ == '__main__':

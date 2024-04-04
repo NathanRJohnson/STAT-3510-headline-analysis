@@ -13,17 +13,20 @@ def random_date(year):
     return start_date + datetime.timedelta(days=random_days)
 
 def main():
-  # years_days = {2018: 15, 2019:35, 2020: 35, 2021:15}
-  years_days = {2018: 3, 2019: 5, 2020: 5, 2021: 3}  # mini
+  years_days = {2018: 15, 2019:35, 2020: 35, 2021:15}
+  # years_days = {2018: 3, 2019: 5, 2020: 5, 2021: 3}  # mini
   dates = []
-  for year, days in years_days.items():
-        for _ in range(days):
-          random_day = random_date(year)
-          dates.append(random_day.strftime("%Y-%m-%d"))
+  for year, ndays in years_days.items():
+        i = 0
+        while i < ndays:
+          rd = random_date(year)
+          if not rd in dates:
+            dates.append(rd) #.strftime("%Y-%m-%d")
+            i += 1
   
-  with open("rand-dates-mini.txt", 'w') as file:
+  with open("rand-dates.txt", 'w') as file:
     for date in dates:
-      file.write(date+"\n")
+      file.write(date.strftime("%Y-%m-%d")+"\n")
 
 if __name__ == "__main__":
     main()
