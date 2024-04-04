@@ -1,4 +1,4 @@
-full_data <- read.csv("../aggregated/aggregated_full.csv")
+full_data <- read.csv("../aggregated/aggregated_undersampled.csv")
 head(full_data)
 
 # MODEL 1:
