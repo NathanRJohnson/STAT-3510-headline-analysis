@@ -1,0 +1,17 @@
+Call:
+lm(formula = total_negative ~ date_id, data = full_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.9900 -1.9865  0.0391  2.0186  6.0224 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 17.001980   0.590082  28.813   <2e-16 ***
+date_id     -0.000444   0.010298  -0.043    0.966    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.973 on 98 degrees of freedom
+Multiple R-squared:  1.897e-05,	Adjusted R-squared:  -0.01018 
+F-statistic: 0.001859 on 1 and 98 DF,  p-value: 0.9657
