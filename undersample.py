@@ -6,7 +6,6 @@ RIGHT = 1
 
 def main():
   all_headlines_df = pd.read_csv("combined_headlines.csv")
-  aggregated_df = pd.read_csv("aggregated/aggregated_full.csv")
 
   undersampled_df = pd.DataFrame()
 
